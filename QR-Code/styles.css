@@ -1,0 +1,33 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+.card {
+    width: 300px;
+    height: 500px;
+    margin: 0 auto;
+    border-radius: 30px;
+    background-color: hsl(0, 0%, 100%);
+}
+.image {
+    max-height: 90%;
+    max-width: 90%;
+    border-radius: 20px;
+    margin: 15px;
+}
+p {
+    margin: 20px;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+}
+
+.p1 {
+    color: hsl(218, 44%, 22%); 
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.p2 {
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    font-size: 14px;
+}
